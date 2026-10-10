@@ -56,9 +56,9 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
    - [Security guards and collision detectors (4)](#security-guards-and-collision-detectors)
    - [Dotfiles and ready-made configuration (6)](#dotfiles-and-ready-made-configuration)
    - [Plugin collections and developer frameworks (6)](#plugin-collections-and-developer-frameworks)
-6. [Apps, companion integrations, and installation (185)](#6-apps-companion-integrations-and-installation)
+6. [Apps, companion integrations, and installation (186)](#6-apps-companion-integrations-and-installation)
    - [Native desktop and mobile apps (14)](#native-desktop-and-mobile-apps)
-   - [Web dashboards and remote viewers (22)](#web-dashboards-and-remote-viewers)
+   - [Web dashboards and remote viewers (23)](#web-dashboards-and-remote-viewers)
    - [Hardware and ambient displays (22)](#hardware-and-ambient-displays)
    - [Plugins and supporting utilities (103)](#plugins-and-supporting-utilities)
    - [Setup, packages, and version management (24)](#setup-packages-and-version-management)
@@ -2291,7 +2291,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ## 6. Apps, companion integrations, and installation
 
-*185 projects. Native applications, web dashboards, hardware companions, supporting utilities, and setup packages.*
+*186 projects. Native applications, web dashboards, hardware companions, supporting utilities, and setup packages.*
 
 ### Native desktop and mobile apps
 
@@ -2316,7 +2316,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ### Web dashboards and remote viewers
 
-*22 projects. Browser-based monitors, remote controls, and visual scenes for following Herdr agents from another screen or device.*
+*23 projects. Browser-based monitors, remote controls, and visual scenes for following Herdr agents from another screen or device.*
 
 | Project | What it does |
 |---|---|
@@ -2342,6 +2342,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**riba2534/herdrx**](https://github.com/riba2534/herdrx) | Provides a self-hosted, multi-user Herdr remote terminal workbench with multi-host split panes, mobile access, and Tailscale support. |
 | [**Eden-Sun/agents-manager**](https://github.com/Eden-Sun/agents-manager) | Manages multiple coding-agent CLIs running in Herdr panes via a Rust Axum daemon and React frontend. |
 | [**hao-github-0216/remote-workspace-setup**](https://github.com/hao-github-0216/remote-workspace-setup) | Provides Cross-platform persistent remote terminal workspace (herdr + mosh/ssh). Survives lid-close, roaming, and reboot. |
+| [**afloury/wherdr**](https://github.com/afloury/wherdr) | Runs a self-hosted web app and installable PWA for Herdr on localhost or a private Tailscale network, with a live agent list, transcript and terminal views, Herdr's split layout with drag-to-rearrange, a Git diff view, and a herdr-projects board. Sends Web Push with one-tap answers when an agent is blocked, locks behind a passkey, and installs as a Herdr plugin. |
 
 ### Hardware and ambient displays
 
