@@ -2342,7 +2342,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**riba2534/herdrx**](https://github.com/riba2534/herdrx) | Provides a self-hosted, multi-user Herdr remote terminal workbench with multi-host split panes, mobile access, and Tailscale support. |
 | [**Eden-Sun/agents-manager**](https://github.com/Eden-Sun/agents-manager) | Manages multiple coding-agent CLIs running in Herdr panes via a Rust Axum daemon and React frontend. |
 | [**hao-github-0216/remote-workspace-setup**](https://github.com/hao-github-0216/remote-workspace-setup) | Provides Cross-platform persistent remote terminal workspace (herdr + mosh/ssh). Survives lid-close, roaming, and reboot. |
-| [**afloury/wherdr**](https://github.com/afloury/wherdr) | Runs a self-hosted web app and installable PWA for Herdr on localhost or a private Tailscale network, with a live agent list, transcript and terminal views, Herdr's split layout with drag-to-rearrange, a Git diff view, and a herdr-projects board. Sends Web Push with one-tap answers when an agent is blocked, locks behind a passkey, and installs as a Herdr plugin. |
+| [**afloury/wherdr**](https://github.com/afloury/wherdr) | Drives Herdr agents from a phone or any browser: a self-hosted, installable PWA with live conversations and terminals, on localhost or a private Tailscale network. Sends a Web Push when an agent is blocked and answers it in one tap; installs as a Herdr plugin. |
 
 ### Hardware and ambient displays
 
